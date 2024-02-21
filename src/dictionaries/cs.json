@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Domů",
+    "about": "O nás"
+  },
+  "page": {
+    "home": {
+      "title": "Vítejte v NextJs i18n",
+      "description": "Mezinárodní záležitosti v NextJs 13 App router"
+    },
+    "about": {
+      "title": "O nás",
+      "description": "Toto je stránka o nás"
+    }
+  }
+}
